@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# Автоматический запуск бота при старте Replit
+echo "Запуск Telegram бота..."
+python run_telegram_bot.py
